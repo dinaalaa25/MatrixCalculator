@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1650995628 source:d:\fcai_materials\2nd year _ second term\data structure\a1_p3_20201231_20201176_20201233\main.cpp
+	<iostream>
+	<fstream>
+	"Matrix.h"
+	"MatrixCalculator.h"
+
+1650995628 d:\fcai_materials\2nd year _ second term\data structure\a1_p3_20201231_20201176_20201233\matrix.h
+	<iostream>
+
+1650996199 d:\fcai_materials\2nd year _ second term\data structure\a1_p3_20201231_20201176_20201233\matrixcalculator.h
+	"Matrix.h"
+
